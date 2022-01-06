@@ -41,6 +41,7 @@ jobs:
         
       - run: ls
       - run: cd main
+      - run: ls
       - run: python ../jemdoc_mathjax/jemdoc index.jemdoc
 
        
