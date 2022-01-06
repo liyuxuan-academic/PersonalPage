@@ -1,25 +1,34 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Yuxuan Li 
+~~~
+{}{img_left}{pics/me.jpg}{alt text}{160px}{200px}
+[https://liyuxuan-academic.github.io/ Yuxuan Li] \n
 (English Approximation: you-shoo-an lee) \n
-(IPA \/y˨˩˦ ɕɥœn˥˥ li˨˩˦ \/) \n
-Master of Science \n
-Department of Computing Science \n
+(IPA: \/y˨˩˦ ɕɥœn˥˥ li˨˩˦ \/) \n
+M.Sc., \n
+Department of Computing Science, \n
 University of Alberta \n
+Edmonton, Alberta, Canada T6G 2E8 \n 
 Mail Address: yuxuan\[DOT\]li@ualberta\[DOT\]ca \n
 Pronouns: He\/Him\/His
+~~~
+
 
 == About me
 I reciced the B.Eng degree in Computer Science and Engineering from University of Science and Technology of China(USTC) in 2021. I also finished the minor in International Organizations from USTC in 2021.
-I went to the University of Alberta in September, 2021 as a Master of Science student in Computing Science.
+I went to the University of Alberta in September, 2021. Currently, I study as a Master of Science student in Computing Science.
 \n
 CV is provided upon request.
 
+
 == Research 
-His research interests include:
+My research interests include:
 - Reinforcement Learning
 - Robotics
 - Dexterous Manipulation
 - Imitation Learning
 
 == Recent Publications
+. Nan Lin; Yuxuan Li; Keke Tang; Yujun Zhu; Ruolin Wang; Jianmin Ji; Xiaoping Chen; Xinming Zhang, "Manipulation Planning from Demonstration via Goal-conditioned Prior Action Primitive Decomposition and Alignment," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3140127.
+

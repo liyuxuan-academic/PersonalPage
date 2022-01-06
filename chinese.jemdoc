@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{chinese.html}
+
+== 李宇轩 
+~~~
+{}{img_left}{pics/me.jpg}{alt text}{160px}{200px}
+[https://liyuxuan-academic.github.io/ 李宇轩] \n
+M.Sc., \n
+Department of Computing Science, \n
+University of Alberta \n
+Edmonton, Alberta, Canada T6G 2E8 \n 
+电子邮件: yuxuan\[DOT\]li@ualberta\[DOT\]ca \n
+~~~
+
+
+== 关于我
+我在中国科学技术大学计算机科学与技术学院，于2021年完成了本科学习。\n
+我同年在中国科大完成了国际组织复合英才班的辅修项目。\n
+此后，我来到阿尔伯塔大学，攻读计算科学硕士中。\n
+个人简历可通过联络我获得。
+
+
+== 研究 
+我的研究兴趣包括：
+- Reinforcement Learning
+- Robotics
+- Dexterous Manipulation
+- Imitation Learning
+
+== 最近动态
+. Nan Lin; Yuxuan Li; Keke Tang; Yujun Zhu; Ruolin Wang; Jianmin Ji; Xiaoping Chen; Xinming Zhang, "Manipulation Planning from Demonstration via Goal-conditioned Prior Action Primitive Decomposition and Alignment," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3140127.
+
