@@ -23,11 +23,26 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-      - name: pull jemdoc + mathkax
-        run: git clone git@github.com:wsshin/jemdoc_mathjax.git
+      - name: check out 
+        uses: actions/checkout@v2
+        with:
+          path: main
+      
+      
+      - name: checkout jemdoc + Mathjax
+        uses: actions/checkout@v2
+        with:  
+          repository: wsshin/jemdoc_mathjax
+          path: jemdoc_mathjax
+          
+      - name: compile
+        uses: actions/setup-python@v2.3.1
         
-      # Jemdoc
-      - name: jemdoc
-        run: python jemdoc index.jemdoc
+        
+      - run: ls
+      - run: python jemdoc_mathjax/jemdoc main/index.jemdoc
+
+       
+      
+
 
