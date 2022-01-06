@@ -44,6 +44,14 @@ jobs:
           cd main
           ls
           python ../jemdoc_mathjax/jemdoc index.jemdoc
+          python ../jemdoc_mathjax/jemdoc chinese.jemdoc
+          python ../jemdoc_mathjax/jemdoc anecdotes.jemdoc
+          python ../jemdoc_mathjax/jemdoc research.jemdoc
+          python ../jemdoc_mathjax/jemdoc publications.jemdoc
+          git config --global user.name 'GithubAction'
+          git config --global user.email 'githubaction@for_registration_only@outlook.com'
+          git commit -m "Automated Update"
+          git push
 
        
       
