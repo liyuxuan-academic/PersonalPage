@@ -23,9 +23,13 @@ Edmonton, Alberta, Canada T6G 2E8 \n
 我的研究兴趣包括：
 - Reinforcement Learning
 - Robotics
-- Dexterous Manipulation
+- Human-in-the-loop ML
 - Imitation Learning
 
 == 最近动态
-. Nan Lin; Yuxuan Li; Keke Tang; Yujun Zhu; Ruolin Wang; Jianmin Ji; Xiaoping Chen; Xinming Zhang, "Manipulation Planning from Demonstration via Goal-conditioned Prior Action Primitive Decomposition and Alignment," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3140127.
+. Lin, Nan, Yuxuan Li, Keke Tang, Yujun Zhu, Xiayu Zhang, Ruolin Wang, Jianmin Ji, Xiaoping Chen, and Xinming Zhang. "Manipulation planning from demonstration via goal-conditioned prior action primitive decomposition and alignment." IEEE Robotics and Automation Letters 7, no. 2 (2022): 1387-1394.
+. Li, Yuxuan, Srijita Das, Qinglin Liu, Matthew E. Taylor.  Integrating Feedback and Error-Corrected Preferences for Adaptable Robotic Control (IJCAI in prep)
+. Li, Yuxuan, Qinglin Liu, Nan Lin, and Matthew E. Taylor. "Work in Progress: Integrating Human Preference and Human Feedback for Environmentally Adaptable Robotic Learning." Adaptive and Learning Agents Workshop at AAMAS 2023
+. Lin, Nan, Yuxuan Li, Yujun Zhu, Ruolin Wang, Xiayu Zhang, Jianmin Ji, Keke Tang, Xiaoping Chen, and Xinming Zhang. "NEARL: Non-Explicit Action Reinforcement Learning for Robotic Control." arXiv preprint arXiv:2011.01046 (2020).
+. Lin, Nan, Hui Zheng, Yuxuan Li, Ruolin Wang, Xiaoping Chen, and Xinming Zhang. "Self-Sensing Pneumatic Compressing Actuator." Frontiers in Neurorobotics 14 (2020): 572856.
 
