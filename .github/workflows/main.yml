@@ -50,7 +50,7 @@ jobs:
           python ./jemdoc_mathjax/jemdoc publications.jemdoc
           git add *
           git config --global user.name 'GithubAction'
-          git config --global user.email 'githubaction@for_registration_only@outlook.com'
+          git config --global user.email 'githubaction@liyuxuan.me'
           git commit -m "Automated Update"
           git push
 
