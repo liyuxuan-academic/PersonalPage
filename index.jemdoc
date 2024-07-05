@@ -10,14 +10,17 @@ M.Sc., \n
 Department of Computing Science, \n
 University of Alberta \n
 Edmonton, Alberta, Canada T6G 2E8 \n 
-Mail Address: yuxuan\[DOT\]li@ualberta\[DOT\]ca \n
-Pronouns: He\/Him\/His
+Mail Address: yuxuan\[DOT\]li\[AT SIGN\]ualberta\[DOT\]ca or mail\[AT SIGN\]yuxuanli\[DOT\]net \n
+Pronouns: He\/They
 ~~~
 
 
 == About me
-I reciced the B.Eng degree in Computer Science and Engineering from University of Science and Technology of China(USTC) in 2021. I also finished the minor of Liberal Arts & Science Interdisciplinary Talent Program in International Organizations from USTC in 2021.
-I went to the University of Alberta in September, 2021. Currently, I study as a Master of Science student in Computing Science.
+I reciced my B.Eng degree in Computer Science and Engineering from University of Science and Technology of China([http://en.ustc.edu.cn USTC]) in 2021, where I worked with [http://staff.ustc.edu.cn/~jianmin/ Prof. Jianmin Ji]. 
+I also recieved a minor of Talent Program in Liberal Arts and Science from USTC in 2021.
+I went to the University of Alberta in September, 2021. 
+Currently, I study as a Master of Science student in Computing Science, supervised by Matt Taylor as a member of [https://irll.ca IRL Lab], [http://rlai.ualberta.ca RLAI Lab] and [amii.ca Amii].
+I am an incoming PhD student of University of Waterloo, supervised by Prof. Victor Zhong in [https://r2llab.com R2L Lab] and [https://vectorinstitute.ai Vector Institute].
 \n
 CV is provided upon request.
 
@@ -27,11 +30,12 @@ My research interests include:
 - Reinforcement Learning
 - Robotics
 - Human-in-the-loop ML
-- Imitation Learning
+- Human-centred AI
+
 
 == Publications and preprints
 . Lin, Nan, Yuxuan Li, Keke Tang, Yujun Zhu, Xiayu Zhang, Ruolin Wang, Jianmin Ji, Xiaoping Chen, and Xinming Zhang. "Manipulation planning from demonstration via goal-conditioned prior action primitive decomposition and alignment." IEEE Robotics and Automation Letters 7, no. 2 (2022): 1387-1394.
-. Li, Yuxuan, Srijita Das, Qinglin Liu, Matthew E. Taylor.  Integrating Feedback and Error-Corrected Preferences for Adaptable Robotic Control (IJCAI in prep)
+. Li, Yuxuan, Srijita Das, Qinglin Liu, Matthew E. Taylor.  Integrating Feedback and Error-Corrected Preferences for Adaptable Robotic Control, Workshop on Reinforcement Learning Beyond Rewards at RLC 2024
 . Li, Yuxuan, Qinglin Liu, Nan Lin, and Matthew E. Taylor. "Work in Progress: Integrating Human Preference and Human Feedback for Environmentally Adaptable Robotic Learning." Adaptive and Learning Agents Workshop at AAMAS 2023
 . Lin, Nan, Yuxuan Li, Yujun Zhu, Ruolin Wang, Xiayu Zhang, Jianmin Ji, Keke Tang, Xiaoping Chen, and Xinming Zhang. "NEARL: Non-Explicit Action Reinforcement Learning for Robotic Control." arXiv preprint arXiv:2011.01046 (2020).
 . Lin, Nan, Hui Zheng, Yuxuan Li, Ruolin Wang, Xiaoping Chen, and Xinming Zhang. "Self-Sensing Pneumatic Compressing Actuator." Frontiers in Neurorobotics 14 (2020): 572856.
