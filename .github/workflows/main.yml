@@ -41,7 +41,7 @@ jobs:
         
       - run: |
           ls
-          cd main
+          # cd main
           ls
           python ./jemdoc_mathjax/jemdoc index.jemdoc
           python ./jemdoc_mathjax/jemdoc chinese.jemdoc
@@ -51,7 +51,7 @@ jobs:
           git add *
           git config --global user.name 'GithubAction'
           git config --global user.email 'githubaction@liyuxuan.me'
-          git commit -m "Automated Update"
+          git commit -m "Automatic Update"
           git push
 
        
