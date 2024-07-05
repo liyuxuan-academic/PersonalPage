@@ -41,13 +41,13 @@ jobs:
         
       - run: |
           ls
-          # cd main
+          cd main
           ls
-          python ./jemdoc_mathjax/jemdoc ./main/index.jemdoc
-          python ./jemdoc_mathjax/jemdoc ./main/chinese.jemdoc
-          python ./jemdoc_mathjax/jemdoc ./main/anecdotes.jemdoc
-          python ./jemdoc_mathjax/jemdoc ./main/research.jemdoc
-          python ./jemdoc_mathjax/jemdoc ./main/publications.jemdoc
+          python ../jemdoc_mathjax/jemdoc ./index.jemdoc
+          python ../jemdoc_mathjax/jemdoc ./chinese.jemdoc
+          python ../jemdoc_mathjax/jemdoc ./anecdotes.jemdoc
+          python ../jemdoc_mathjax/jemdoc ./research.jemdoc
+          python ../jemdoc_mathjax/jemdoc ./publications.jemdoc
           git add *
           git config --global user.name 'GithubAction'
           git config --global user.email 'githubaction@liyuxuan.me'
