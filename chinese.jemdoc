@@ -4,19 +4,20 @@
 ~~~
 {}{img_left}{pics/me.jpg}{alt text}{160px}{200px}
 [https://liyuxuan-academic.github.io/chinese.html 李宇轩] \n
-M.Sc., \n
-Department of Computing Science, \n
-University of Alberta \n
-Edmonton, Alberta, Canada T6G 2E8 \n 
-电子邮件: yuxuan\[DOT\]li\[AT SIGN\]ualberta\[DOT\]ca 或 mail\[AT SIGN\]yuxuanli\[DOT\]net \n \n
+PhD Student, \n
+David R. Cheriton School of Computer Science, \n
+University of Waterloo \nDOT
+Waterloo, Ontario, Canada N2L 3G1 \n 
+电子邮件: mail\[AT SIGN\]yuxuanli\[DOT\]net 或 yuxuan.li1\[AT SIGN\]uwaterloo\[DOT\]ca
+\n \n
 ~~~
 
 
 == 关于我
 我在中国科学技术大学计算机科学与技术学院，于2021年完成了本科学习。在中国科大，我得到了吉建民老师的指导。\n
 我同年在中国科大完成了国际组织复合英才班的辅修项目。\n
-此后，我来到阿尔伯塔大学，攻读计算科学硕士中。\n
-我即将在2024年秋季入学滑铁卢大学计算机科学博士项目。\n
+此后，我来到阿尔伯塔大学，攻读计算科学硕士。\n
+我于2024年秋季入学滑铁卢大学计算机科学博士项目。\n
 个人简历可通过联络我获得。
 
 
@@ -26,6 +27,7 @@ Edmonton, Alberta, Canada T6G 2E8 \n
 - Robotics
 - Human-in-the-loop ML
 - Human-centred AI
+- LLM in Planning and Reasoning
 
 == 最近动态
 . Lin, Nan, Yuxuan Li, Keke Tang, Yujun Zhu, Xiayu Zhang, Ruolin Wang, Jianmin Ji, Xiaoping Chen, and Xinming Zhang. "Manipulation planning from demonstration via goal-conditioned prior action primitive decomposition and alignment." IEEE Robotics and Automation Letters 7, no. 2 (2022): 1387-1394.
